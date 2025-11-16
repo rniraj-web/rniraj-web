@@ -1,6 +1,6 @@
 ## 🐧 About Me
 
-Hi, I'm **Niraj Rawat**, a Front-end / Full-stack Developer with 3+ years’ experience building customer-facing web applications using **React, TypeScript, Next.js and the MERN stack**. I enjoy turning ideas into fast, usable interfaces, wiring them up to clean APIs, and making sure everything is tested and easy to maintain.
+Hi, I'm **Niraj Rawat**, a Front-end / Full-stack Developer with 3+ years experience building customer-facing web applications using **React, TypeScript, Next.js and the MERN stack**. I enjoy turning ideas into fast, usable interfaces, wiring them up to clean APIs, and making sure everything is tested and easy to maintain.
 
 1. Front-end / full-stack development with React, Next.js and MERN.
 2. Building production-ready UIs with a focus on performance and accessibility.
@@ -14,7 +14,7 @@ Hi, I'm **Niraj Rawat**, a Front-end / Full-stack Developer with 3+ years’ exp
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-rawat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-url](https://myportfolio-r5wd.onrender.com/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-r5wd.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwtniraj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rniraj-web)
 
