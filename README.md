@@ -1,6 +1,6 @@
 ## 🐧 About Me
 
-Hi, I'm **Niraj Rawat**, a Front-end / Full-stack Developer with 3+ years experience building customer-facing web applications using **React, TypeScript, Next.js and the MERN stack**. I enjoy turning ideas into fast, usable interfaces, wiring them up to clean APIs, and making sure everything is tested and easy to maintain.
+Hi, I'm **Niraj Rawat**, a Full-stack Developer with 4 years experience building customer-facing web applications using **React, TypeScript, Next.js and the MERN stack**. I enjoy turning ideas into fast, usable interfaces, wiring them up to clean APIs, and making sure everything is tested and easy to maintain.
 
 1. Front-end / full-stack development with React, Next.js and MERN.
 2. Building production-ready UIs with a focus on performance and accessibility.
